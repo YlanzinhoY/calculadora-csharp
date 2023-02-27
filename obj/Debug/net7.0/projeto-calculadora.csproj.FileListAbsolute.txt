@@ -1,0 +1,15 @@
+C:\Users\enzom\OneDrive\Imagens\projeto-calculadora\bin\Debug\net7.0\projeto-calculadora.exe
+C:\Users\enzom\OneDrive\Imagens\projeto-calculadora\bin\Debug\net7.0\projeto-calculadora.deps.json
+C:\Users\enzom\OneDrive\Imagens\projeto-calculadora\bin\Debug\net7.0\projeto-calculadora.runtimeconfig.json
+C:\Users\enzom\OneDrive\Imagens\projeto-calculadora\bin\Debug\net7.0\projeto-calculadora.dll
+C:\Users\enzom\OneDrive\Imagens\projeto-calculadora\bin\Debug\net7.0\projeto-calculadora.pdb
+C:\Users\enzom\OneDrive\Imagens\projeto-calculadora\obj\Debug\net7.0\projeto-calculadora.csproj.AssemblyReference.cache
+C:\Users\enzom\OneDrive\Imagens\projeto-calculadora\obj\Debug\net7.0\projeto-calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzom\OneDrive\Imagens\projeto-calculadora\obj\Debug\net7.0\projeto-calculadora.AssemblyInfoInputs.cache
+C:\Users\enzom\OneDrive\Imagens\projeto-calculadora\obj\Debug\net7.0\projeto-calculadora.AssemblyInfo.cs
+C:\Users\enzom\OneDrive\Imagens\projeto-calculadora\obj\Debug\net7.0\projeto-calculadora.csproj.CoreCompileInputs.cache
+C:\Users\enzom\OneDrive\Imagens\projeto-calculadora\obj\Debug\net7.0\projeto-calculadora.dll
+C:\Users\enzom\OneDrive\Imagens\projeto-calculadora\obj\Debug\net7.0\refint\projeto-calculadora.dll
+C:\Users\enzom\OneDrive\Imagens\projeto-calculadora\obj\Debug\net7.0\projeto-calculadora.pdb
+C:\Users\enzom\OneDrive\Imagens\projeto-calculadora\obj\Debug\net7.0\projeto-calculadora.genruntimeconfig.cache
+C:\Users\enzom\OneDrive\Imagens\projeto-calculadora\obj\Debug\net7.0\ref\projeto-calculadora.dll
